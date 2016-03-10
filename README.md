@@ -1,12 +1,12 @@
 # fuzzboard
 
-h1. Version 1
+## Version 1
 
-h2. Match functionality
+### Match functionality
 
 * Record matches between players
 
-h2. Team functionality
+### Team functionality
 
 * Team creation
 * Team ranking
