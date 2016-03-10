@@ -1,8 +1,13 @@
 # fuzzboard
 
-Version 1
+h1. Version 1
 
-* Player signup
+h2. Match functionality
+
 * Record matches between players
-* Player ranking
-* Player profile
+
+h2. Team functionality
+
+* Team creation
+* Team ranking
+* Team profile
