@@ -4,7 +4,7 @@
 
 ### Match functionality
 
-* Record matches between players
+* Record matches between teams
 
 ### Team functionality
 
